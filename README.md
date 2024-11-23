@@ -1,1 +1,1 @@
-# psr
+# Paper Scissors Rock Console Ver
